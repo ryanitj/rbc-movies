@@ -1,0 +1,102 @@
+,ID,Title,Year,Age,IMDb,Rotten Tomatoes,Netflix,Hulu,Prime Video,Disney+,Type,Directors,Genres,Country,Language,Runtime
+0,1,The Irishman,2019,18+,7.8/10,98/100,1,0,0,0,0,Martin Scorsese,"Biography,Crime,Drama",United States,"English,Italian,Latin,Spanish,German",209.0
+1,2,Dangal,2016,7+,8.4/10,97/100,1,0,0,0,0,Nitesh Tiwari,"Action,Biography,Drama,Sport","India,United States,United Kingdom,Australia,Kenya,Namibia","Hindi,English",161.0
+2,3,David Attenborough: A Life on Our Planet,2020,7+,9.0/10,95/100,1,0,0,0,0,"Alastair Fothergill,Jonathan Hughes,Keith Scholey","Documentary,Biography",United Kingdom,English,83.0
+3,4,Lagaan: Once Upon a Time in India,2001,7+,8.1/10,94/100,1,0,0,0,0,Ashutosh Gowariker,"Drama,Musical,Sport","India,United Kingdom","Hindi,English",224.0
+4,5,Roma,2018,18+,7.7/10,94/100,1,0,0,0,0,,"Action,Drama,History,Romance,War","United Kingdom,United States",English,52.0
+5,6,To All the Boys I've Loved Before,2018,13+,7.1/10,94/100,1,0,0,0,0,Susan Johnson,"Comedy,Drama,Romance",United States,English,99.0
+6,7,The Social Dilemma,2020,13+,7.6/10,93/100,1,0,0,0,0,Jeff Orlowski,"Documentary,Drama",United States,English,94.0
+7,8,Okja,2017,13+,7.3/10,92/100,1,0,0,0,0,Bong Joon Ho,"Action,Adventure,Drama,Sci-Fi","South Korea,United States","English,Korean,Spanish",120.0
+8,9,The Ballad of Buster Scruggs,2018,16+,7.3/10,92/100,1,0,0,0,0,"Ethan Coen,Joel Coen","Comedy,Drama,Musical,Mystery,Romance,Western",United States,"English,French",133.0
+9,10,The Trial of the Chicago 7,2020,18+,7.8/10,92/100,1,0,0,0,0,Aaron Sorkin,"Drama,History,Thriller","United States,United Kingdom,India","English,Latin,French",129.0
+10,11,Article 15,2019,18+,8.2/10,92/100,1,0,0,0,0,Anubhav Sinha,"Crime,Drama,Mystery,Thriller",India,Hindi,130.0
+11,12,"Jim & Andy: The Great Beyond- Featuring a Very Special Contractually Obligated Mention of Tony Clifton",2017,18+,7.7/10,92/100,1,0,0,0,0,Chris Smith,Documentary,"United States,Canada","English,East-Greenlandic",94.0
+12,13,Dolemite Is My Name,2019,18+,7.3/10,92/100,1,0,0,0,0,Craig Brewer,"Biography,Comedy,Drama",United States,English,118.0
+13,14,Mudbound,2017,18+,7.4/10,91/100,1,0,0,0,0,Dee Rees,"Drama,War",United States,English,134.0
+14,15,Swades,2004,all,8.2/10,91/100,1,0,0,0,0,Ashutosh Gowariker,Drama,India,"Hindi,English",210.0
+15,16,Fyre,2019,18+,7.2/10,91/100,1,0,0,0,0,Chris Smith,"Documentary,Crime,Music",United States,English,97.0
+16,17,Miss Americana,2020,18+,7.4/10,90/100,1,0,0,0,0,Lana Wilson,"Documentary,Biography,Music",United States,English,85.0
+17,18,Virunga,2014,16+,8.2/10,90/100,1,0,0,0,0,Orlando von Einsiedel,"Documentary,War","United Kingdom,Congo - Brazzaville","English,French,Swahili",100.0
+18,19,Black Friday,2004,18+,8.5/10,90/100,1,0,0,0,0,Anurag Kashyap,"Action,Crime,Drama,History",India,"Hindi,English",143.0
+19,20,Talvar,2015,7+,8.2/10,90/100,1,0,0,0,0,Meghna Gulzar,"Crime,Drama,Mystery,Thriller",India,Hindi,132.0
+20,21,The King,2019,18+,7.2/10,90/100,1,0,0,0,0,David Michôd,"Biography,Drama,History,Romance,War","United Kingdom,Hungary,United States,Australia","English,French,Latin",140.0
+21,22,John Mulaney: Kid Gorgeous at Radio City,2018,18+,8.0/10,89/100,1,0,0,0,0,Alex Timbers,Comedy,United States,English,65.0
+22,23,I Am Mother,2019,13+,6.7/10,89/100,1,0,0,0,0,Grant Sputore,"Drama,Mystery,Sci-Fi,Thriller",Australia,English,113.0
+23,24,Tell Me Who I Am,2019,18+,7.6/10,89/100,1,0,0,0,0,,"Drama,Thriller",Spain,"Spanish,German,Russian,French,Italian,Polish,English",
+24,25,The Departed,2006,18+,8.5/10,89/100,1,0,0,0,0,Martin Scorsese,"Crime,Drama,Thriller","United States,Hong Kong SAR China","English,Cantonese",151.0
+25,26,Winter on Fire: Ukraine's Fight for Freedom,2015,16+,8.4/10,89/100,1,0,0,0,0,Evgeny Afineevsky,Documentary,"United Kingdom,Ukraine,United States","Ukrainian,Russian,English",102.0
+26,27,Terminator 2: Judgment Day,1991,18+,8.5/10,89/100,1,0,0,0,0,James Cameron,"Action,Sci-Fi",United States,"English,Spanish",137.0
+27,28,I Lost My Body,2019,18+,7.6/10,89/100,1,0,0,0,0,Jérémy Clapin,"Animation,Drama,Fantasy,Romance","France,United States",French,81.0
+28,29,Django Unchained,2012,18+,8.4/10,89/100,1,0,0,0,0,Quentin Tarantino,"Drama,Western",United States,"English,German,French,Italian",165.0
+29,30,The Half of It,2020,13+,6.9/10,89/100,1,0,0,0,0,Alice Wu,"Comedy,Drama,Romance",United States,"Spanish,English,Mandarin,French,Hindi",104.0
+30,31,The Boy Who Harnessed the Wind,2019,7+,7.6/10,89/100,1,0,0,0,0,Chiwetel Ejiofor,"Biography,Drama,History","United Kingdom,Malawi","Arabic,Nyanja,English",113.0
+31,32,The Devil All the Time,2020,18+,7.1/10,89/100,1,0,0,0,0,Antonio Campos,"Crime,Drama,Thriller",United States,English,138.0
+32,33,The Fundamentals of Caring,2016,18+,7.3/10,89/100,1,0,0,0,0,Rob Burnett,"Comedy,Drama",United States,English,97.0
+33,34,Pieces of a Woman,2020,18+,7.1/10,88/100,1,0,0,0,0,Kornél Mundruczó,Drama,"Canada,Hungary,United States",English,126.0
+34,35,Gerald's Game,2017,18+,6.5/10,88/100,1,0,0,0,0,Mike Flanagan,"Drama,Horror,Thriller",United States,English,103.0
+35,36,On Body and Soul,2017,,7.6/10,88/100,1,0,0,0,0,Ildikó Enyedi,"Drama,Fantasy,Mystery,Romance",Hungary,Hungarian,116.0
+36,37,Shutter Island,2010,18+,8.2/10,88/100,1,0,0,0,0,Martin Scorsese,"Mystery,Thriller",United States,"English,German",138.0
+37,38,Always Be My Maybe,2019,13+,6.8/10,88/100,1,0,0,0,0,Nahnatchka Khan,"Comedy,Romance",United States,English,101.0
+38,39,The Intouchables,2011,7+,8.5/10,88/100,1,0,0,0,0,"Olivier Nakache,Éric Toledano","Biography,Comedy,Drama",France,"French,English",112.0
+39,40,Bill Burr: Paper Tiger,2019,18+,8.2/10,87/100,1,0,0,0,0,Mike Binder,Comedy,"United States,United Kingdom",English,67.0
+40,41,Special 26,2013,,8.0/10,87/100,1,0,0,0,0,Neeraj Pandey,"Crime,Drama,Thriller",India,Hindi,144.0
+41,42,Kiss the Ground,2020,18+,8.3/10,87/100,1,0,0,0,0,"Joshua Tickell,Rebecca Harrell Tickell",Documentary,United States,English,84.0
+42,43,Crip Camp: A Disability Revolution,2020,18+,7.7/10,87/100,1,0,0,0,0,"James Lebrecht,Nicole Newnham","Documentary,History",United States,English,106.0
+43,44,Extraction,2020,18+,6.7/10,87/100,1,0,0,0,0,Sam Hargrave,"Action,Thriller","United States,Canada,Thailand","English,Hindi,Bangla",116.0
+44,45,No Direction Home: Bob Dylan,2005,all,8.5/10,87/100,1,0,0,0,0,Martin Scorsese,"Documentary,Biography","United Kingdom,United States,Japan",English,359.0
+45,46,Kabhi Khushi Kabhie Gham,2001,all,7.4/10,87/100,1,0,0,0,0,Karan Johar,"Drama,Musical,Romance",India,"Hindi,English",210.0
+46,47,His House,2020,16+,6.5/10,87/100,1,0,0,0,0,Remi Weekes,"Drama,Horror,Thriller",United Kingdom,"English,Dinka",93.0
+47,48,Super Deluxe,2019,18+,8.4/10,87/100,1,0,0,0,0,Thiagarajan Kumararaja,"Comedy,Crime,Drama,Thriller",India,Tamil,176.0
+48,49,The Guernsey Literary & Potato Peel Pie Society,2018,16+,7.4/10,87/100,1,0,0,0,0,Mike Newell,"Drama,Romance,War","United Kingdom,France,United States","English,German,French",124.0
+49,50,A Secret Love,2020,18+,7.9/10,87/100,1,0,0,0,0,Chris Bolan,"Documentary,Drama",United States,English,81.0
+50,51,The Night Comes for Us,2018,18+,7.0/10,87/100,1,0,0,0,0,Timo Tjahjanto,"Action,Thriller","Indonesia,United States","Indonesian,English,Mandarin,French",121.0
+51,52,The Big Lebowski,1998,18+,8.1/10,87/100,1,0,0,0,0,"Joel Coen,Ethan Coen","Comedy,Crime,Sport","United States,United Kingdom","English,German,Hebrew,Spanish",117.0
+52,53,Pad Man,2018,13+,7.9/10,87/100,1,0,0,0,0,R. Balki,"Comedy,Drama",India,Hindi,140.0
+53,54,American Factory,2019,13+,7.4/10,86/100,1,0,0,0,0,"Steven Bognar,Julia Reichert",Documentary,United States,"English,Mandarin",110.0
+54,55,Bird Box,2018,18+,6.6/10,86/100,1,0,0,0,0,Susanne Bier,"Horror,Sci-Fi",United States,English,124.0
+55,56,The Pianist,2002,18+,8.5/10,86/100,1,0,0,0,0,Roman Polanski,"Biography,Drama,Music,War","United Kingdom,France,Poland,Germany,United States","English,German,Russian",150.0
+56,57,3 Idiots,2009,13+,8.4/10,86/100,1,0,0,0,0,Rajkumar Hirani,"Comedy,Drama",India,"Hindi,English",170.0
+57,58,The Distinguished Citizen,2016,,7.5/10,86/100,1,0,0,0,0,"Gastón Duprat,Mariano Cohn","Comedy,Drama","Argentina,Spain",Spanish,118.0
+58,59,A Shaun the Sheep Movie: Farmageddon,2019,all,6.8/10,86/100,1,0,0,0,0,"Will Becher,Richard Phelan","Animation,Adventure,Comedy,Family,Fantasy,Sci-Fi","United Kingdom,France,Belgium,Ireland,United States",English,86.0
+59,60,A Clockwork Orange,1971,18+,8.3/10,86/100,1,0,0,0,0,Stanley Kubrick,"Crime,Drama,Sci-Fi","United Kingdom,United States",English,136.0
+60,61,What Happened to Monday,2017,18+,6.9/10,86/100,1,0,0,0,0,Tommy Wirkola,"Action,Crime,Fantasy,Mystery,Sci-Fi,Thriller","United Kingdom,France,United States,Belgium",English,123.0
+61,62,Anthony Jeselnik: Thoughts and Prayers,2015,18+,7.8/10,86/100,1,0,0,0,0,Adam Dubin,Comedy,United States,English,59.0
+62,63,The White Helmets,2016,16+,7.5/10,86/100,1,0,0,0,0,Orlando von Einsiedel,"Documentary,Short,War",United Kingdom,"Arabic,English",41.0
+63,64,Invader ZIM: Enter the Florpus,2019,7+,7.5/10,86/100,1,0,0,0,0,"Hae Young Jung,Young Kyun Park,Jhonen Vasquez","Animation,Action,Adventure,Comedy,Family,Sci-Fi","South Korea,United States","English,Korean",71.0
+64,65,Happy as Lazzaro,2018,13+,7.5/10,85/100,1,0,0,0,0,Alice Rohrwacher,"Drama,Fantasy,Mystery","Italy,Switzerland,France,Germany","Italian,English",128.0
+65,66,Chasing Coral,2017,,8.1/10,85/100,1,0,0,0,0,Jeff Orlowski,Documentary,United States,English,93.0
+66,67,Kal Ho Naa Ho,2003,all,7.9/10,85/100,1,0,0,0,0,Nikkhil Advani,"Comedy,Drama,Musical,Romance",India,"Hindi,English",186.0
+67,68,Pan's Labyrinth,2006,18+,8.2/10,85/100,1,0,0,0,0,Guillermo del Toro,"Drama,Fantasy,War","Spain,Mexico,United States",Spanish,118.0
+68,69,Team Foxcatcher,2016,16+,7.3/10,85/100,1,0,0,0,0,Jon Greenhalgh,"Documentary,Biography,Crime,History,Sport",United States,English,90.0
+69,70,The Meyerowitz Stories (New and Selected),2017,18+,6.9/10,85/100,1,0,0,0,0,Noah Baumbach,"Comedy,Drama",United States,English,112.0
+70,71,Casino Royale,2006,13+,8.0/10,85/100,1,0,0,0,0,Martin Campbell,"Action,Adventure,Thriller","United Kingdom,Czechia,United States,Germany,Bahamas","English,Serbian,German,Italian,French",144.0
+71,72,The Hateful Eight,2015,18+,7.8/10,85/100,1,0,0,0,0,Quentin Tarantino,"Crime,Drama,Mystery,Thriller,Western",United States,"English,Spanish,French",168.0
+72,73,Rush,2013,18+,8.1/10,84/100,1,0,0,0,0,Ron Howard,"Action,Biography,Drama,Sport","United Kingdom,Germany,United States","English,German,Italian,French,Spanish",123.0
+73,74,Zombieland,2009,18+,7.6/10,84/100,1,0,0,0,0,Ruben Fleischer,"Adventure,Comedy,Fantasy,Horror,Sci-Fi",United States,"English,Spanish,French",88.0
+74,75,Eurovision Song Contest: The Story of Fire Saga,2020,13+,6.5/10,84/100,1,0,0,0,0,David Dobkin,"Comedy,Music","United States,Iceland,Canada","English,Icelandic,Portuguese",123.0
+75,76,Kapoor & Sons,2016,13+,7.7/10,84/100,1,0,0,0,0,Shakun Batra,"Comedy,Drama,Family,Romance",India,Hindi,132.0
+76,77,The Perfection,2018,18+,6.2/10,84/100,1,0,0,0,0,Richard Shepard,"Drama,Horror,Music,Thriller","United States,Canada","English,Mandarin",90.0
+77,78,Dave Chappelle: Sticks & Stones,2019,18+,8.5/10,84/100,1,0,0,0,0,Stan Lathan,Comedy,United States,English,65.0
+78,79,There Will Be Blood,2007,18+,8.2/10,84/100,1,0,0,0,0,Paul Thomas Anderson,Drama,United States,"English,American Sign Language",158.0
+79,80,Million Dollar Baby,2004,13+,8.1/10,84/100,1,0,0,0,0,Clint Eastwood,"Drama,Sport",United States,"English,Irish",132.0
+80,81,The Social Network,2010,13+,7.7/10,84/100,1,1,0,0,0,David Fincher,"Biography,Drama",United States,"English,French",120.0
+81,82,The Christmas Chronicles,2018,7+,7.0/10,84/100,1,0,0,0,0,Clay Kaytis,"Adventure,Comedy,Family,Fantasy",United States,"English,Spanish,French,Romanian",104.0
+82,83,Monty Python and the Holy Grail,1975,7+,8.2/10,84/100,1,0,0,0,0,"Terry Gilliam,Terry Jones","Adventure,Comedy,Fantasy",United Kingdom,"English,French,Latin",91.0
+83,84,The Pixar Story,2007,all,7.8/10,84/100,1,0,0,0,0,Leslie Iwerks,Documentary,United States,English,88.0
+84,85,Ma Rainey's Black Bottom,2020,18+,7.0/10,84/100,1,0,0,0,0,George C. Wolfe,"Drama,Music",United States,English,94.0
+85,86,Calibre,2018,18+,6.8/10,84/100,1,0,0,0,0,Matt Palmer,"Drama,Thriller",United Kingdom,English,101.0
+86,87,Silver Linings Playbook,2012,18+,7.7/10,84/100,1,0,0,0,0,David O. Russell,"Comedy,Drama,Romance",United States,English,122.0
+87,88,Over the Moon,2020,7+,6.4/10,84/100,1,0,0,0,0,"Glen Keane,John Kahrs","Animation,Adventure,Comedy,Family,Fantasy,Musical,Sci-Fi","China,United States","English,Chinese",95.0
+88,89,"What Happened Miss Simone?",2015,,7.6/10,84/100,1,0,0,0,0,Liz Garbus,"Documentary,Biography,Music",United States,"English,French",101.0
+89,90,Nightcrawler,2014,18+,7.8/10,84/100,1,0,0,0,0,Dan Gilroy,"Crime,Drama,Thriller",United States,English,117.0
+90,91,1922,2017,18+,6.3/10,84/100,1,0,0,0,0,Zak Hilditch,"Crime,Drama,Horror,Mystery,Thriller","United States,Canada",English,102.0
+91,92,Paddleton,2019,18+,7.2/10,84/100,1,0,0,0,0,Alex Lehmann,"Comedy,Drama",United States,English,89.0
+92,93,Cargo,2017,,6.3/10,84/100,1,0,0,0,0,"Ben Howling,Yolanda Ramke","Drama,Horror,Sci-Fi,Thriller",Australia,"English,Aboriginal",105.0
+93,94,Rain Man,1988,18+,8.0/10,83/100,1,0,0,0,0,Barry Levinson,Drama,United States,"English,Italian",133.0
+94,95,Cuba and the Cameraman,2017,,8.3/10,83/100,1,0,0,0,0,Jon Alpert,Documentary,United States,"English,Spanish",113.0
+95,96,The Ritual,2017,18+,6.3/10,83/100,1,0,0,0,0,David Bruckner,"Horror,Mystery,Thriller","United Kingdom,Canada","English,Swedish",94.0
+96,97,The Hater,2020,18+,7.1/10,83/100,1,0,0,0,0,Jan Komasa,"Drama,Thriller",Poland,"Polish,English",135.0
+97,98,The Edge of Democracy,2019,16+,7.2/10,83/100,1,0,0,0,0,Petra Costa,"Documentary,History",Brazil,"Portuguese,English",121.0
+98,99,22-Jul,2018,18+,6.8/10,83/100,1,0,0,0,0,Paul Greengrass,"Crime,Drama,History,Thriller","Norway,Iceland,United States","English,Norwegian",143.0
+99,100,Adam Sandler: 100% Fresh,2018,18+,7.6/10,83/100,1,0,0,0,0,"Steven Brill,Nicholaus Goossen","Comedy,Music",United States,English,73.0
+100,101,Guru,2007,13+,7.7/10,83/100,1,0,0,0,0,Stephen Herek,"Comedy,Drama",United States,English,114.0
